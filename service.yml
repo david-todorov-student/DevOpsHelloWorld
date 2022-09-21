@@ -15,7 +15,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: hello-world-service
+  name: kiii-hello-world-service
 spec:
   type: LoadBalancer
   ports:
